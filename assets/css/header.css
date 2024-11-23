@@ -1,0 +1,15 @@
+.banner-content {
+    display: flex;
+    flex-direction: column;
+    background: url('../images/banner.png');
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+.logo img {
+    width: 268px;
+    filter: drop-shadow(10px 10px 10px black);
+}
