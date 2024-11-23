@@ -1,7 +1,7 @@
 .banner-content {
     display: flex;
     flex-direction: column;
-    background: url('../images/banner.png');
+    background: url('../images/banner.png') black; 
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: linear-gradient(#31A8DD #33A8DB);
@@ -38,4 +38,5 @@
     text-transform: uppercase;
     padding: 19px;
     width: 326px;  
+    background-color: transparent;
 }
